@@ -1,0 +1,5 @@
+{
+    "require": {
+        "jaspersoft/rest-client": "dev-master"
+    }
+}
